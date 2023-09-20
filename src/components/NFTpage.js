@@ -5,6 +5,7 @@ import MarketplaceJSON from "../Marketplace.json";
 import axios from "axios";
 import { useState } from "react";
 import { GetIpfsUrlFromPinata } from "../utils";
+import "./NFTpage.css"
 
 export default function NFTPage (props) {
 
