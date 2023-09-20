@@ -2,7 +2,7 @@ import React from "react";
 import "./land.css";
 const land = () => {
   return (
-    <h1 class="hello"><span class="Ultrabold">Design the</span> <span class="update Ultrabold">Future</span></h1>
+    <h1 class="hello"><span class="Ultrabold">Empowering Sustainability,</span> <br /><span class="update Ultrabold">One Badge at a Time</span></h1>
   );
 };
 

@@ -77,7 +77,7 @@ async function buyNFT(tokenId) {
         data.image = GetIpfsUrlFromPinata(data.image);
 
     return(
-        <div style={{"min-height":"100vh"}}>
+        <div >
             <Navbar></Navbar>
         <div className="nft-tt">
             <div className="nft-fl">

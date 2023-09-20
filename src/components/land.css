@@ -5,10 +5,10 @@
         font-family: NeueMachina;
     }
     .hello {
-        font-size: 12rem;
+        font-size: 6rem;
         margin-bottom: 2rem;
-        margin-left: 6vw;
-        margin-right: 6vw;
+        margin-left: 1vw;
+        margin-right: 1vw;
         color: white;
         font-weight: 900;
         text-align: center;
@@ -19,7 +19,7 @@
         margin-left: -10px;
         color: transparent;
         -webkit-text-stroke: 1px #fff;
-        background: url('./future-03.65e70e18741c4a9d14a7.jpg');
+        background: url('./Untitled\ design\ \(4\).png');
         -webkit-background-clip: text;
         background-position: 0 0;
         animation: back 20s linear infinite;
