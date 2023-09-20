@@ -4,7 +4,7 @@ import MarketplaceJSON from "../Marketplace.json";
 import axios from "axios";
 import { useState } from "react";
 import { GetIpfsUrlFromPinata } from "../utils";
-
+import Land from "./land";
 export default function Marketplace() {
   const sampleData = [];
   //   {
@@ -87,6 +87,7 @@ export default function Marketplace() {
   return (
     <div>
       <Navbar></Navbar>
+      <div><Land/></div>
       <div className="flex flex-col place-items-center mt-20">
         <div className="md:text-xl font-bold text-white">New Badges</div>
         <div className="flex mt-5 justify-between flex-wrap max-w-screen-xl text-center">
